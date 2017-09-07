@@ -1,0 +1,23 @@
+{
+  "name": "mongoproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linako111/MongoProject.git"
+  },
+  "author": "Elena Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linako111/MongoProject/issues"
+  },
+  "homepage": "https://github.com/linako111/MongoProject#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  }
+}
